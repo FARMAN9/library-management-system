@@ -1,0 +1,18 @@
+p {background-color:orange;
+	color:white;
+	text-align:center;
+	border:4px solid #4CAF50;
+	-webkit-transition-duration:0.4s;
+	transition-duration:0.4s;
+	width:25%;
+	float:center;
+	border-radius:9px 5px;
+
+}
+p:hover{
+	text-align:center;
+	background-color:green;
+	color:white;
+	border:4px solid #f44336;
+	border-radius:55px;
+}
