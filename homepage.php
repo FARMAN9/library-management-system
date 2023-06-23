@@ -86,7 +86,7 @@ h6{
 	  <img src="al2.png"  align="center"width="200" height="50"> </img>
 	  </marquee>
 	<script type="text/javascript">
-alert("LABRARY MENAGEMENT\nPROJECT BY FARMAN ALI");
+//alert("LABRARY MENAGEMENT\nPROJECT BY FARMAN ALI");
 </script>
    
 	<h1 align="center">~MASTER INSTITUTE OF INFORMATION TECHNOLOGY~</h1>
